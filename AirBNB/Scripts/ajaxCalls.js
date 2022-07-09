@@ -4,9 +4,9 @@
         url: api,
         data: data,
         cache: false,
-        contentType: "application/json",
+        contentType: "application/jsonp",
         success: successCB,
         error: errorCB,
-        dataType: 'json'
+        dataType: 'jsonp'
     });
 }
