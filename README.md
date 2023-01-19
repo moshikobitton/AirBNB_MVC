@@ -1,6 +1,6 @@
 # AirBNB_MVC
 
 AirBNB MVC project with api, RSS and ajax call using RESTful.
-Client -> js-jquery.
-Server -> C#.
-DB -> SQL.
+Client -> JS-Jquery.
+Server -> C# .net
+DB -> Microsoft SQL Server.
